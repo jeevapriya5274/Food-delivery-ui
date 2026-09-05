@@ -24,3 +24,7 @@ A mobile food delivery app UI designed using Figma.
 - Cart
 - Payment flow
 - Interactive prototype
+- 
+- ## Figma Prototype
+View the interactive prototype:
+https://www.figma.com/proto/S66YapmnGCVGQIG7jCBoh6/user-flow?node-id=0-1&t=572bDjeIATLcm80m-1
